@@ -4,7 +4,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegobaldassare&show_icons=true&locale=en&layout=compact" alt="diegobaldassare" /></p>
 
-
-[<img width="15%" style="border-radius: 3px" src="https://www.comeet.com/resources/wp-content/uploads/2019/03/linkedin-logo.png">](https://www.linkedin.com/in/diegobaldassare/)
+[<img src="https://extramilemarketing.com/media/1578/linkedin_connect_button.png" width="150"/>](https://www.linkedin.com/in/diegobaldassare/)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=diegobaldassare.diegobaldassare)
