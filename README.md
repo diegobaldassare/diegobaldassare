@@ -6,4 +6,4 @@
 
 [<img src="https://extramilemarketing.com/media/1578/linkedin_connect_button.png" width="150"/>](https://www.linkedin.com/in/diegobaldassare/)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=diegobaldassare.diegobaldassare)
+![v](https://visitor-badge.glitch.me/badge?page_id=diegobaldassare.diegobaldassare)
